@@ -1,4 +1,4 @@
-# Reading Paper
+# Reading Paper : Diffusion Model
 
 | NO | Title |  Code |  Review | Talk (Issue) |  
 | --- | --- | --- |--- |--- |
@@ -9,6 +9,13 @@
 | 5 | [DiffusionCLIP: Text-Guided Diffusion Models for Robust Image Manipulation](https://arxiv.org/abs/2110.02711) |  [1](https://github.com/gwang-kim/DiffusionCLIP) |
 | 6 | [SINE: SINgle Image Editing with Text-to-Image Diffusion Models](https://arxiv.org/abs/2212.04489)| [1](https://github.com/zhang-zx/SINE)
 | 7 | [Diffusion Art or Digital Forgery? Investigating Data Replication in Diffusion Models](https://arxiv.org/abs/2212.03860) | 
+
+# Reading Paper : Applied Diffusion Model
+
+| NO | Title |  Code |  Review | Talk (Issue) |  
+| --- | --- | --- |--- |--- |
+| 1   | [Exploring Discrete Diffusion Models for Image Captioning](https://arxiv.org/abs/2211.11694) | [1](https://github.com/buxiangzhiren/DDCap) |
+| 2 | [DiffusionDet: Diffusion Model for Object Detection](https://arxiv.org/abs/2211.09788) | [1](https://github.com/ShoufaChen/DiffusionDet)
 
 # Awesome References
 | NO | Title | 
