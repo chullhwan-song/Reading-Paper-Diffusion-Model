@@ -9,6 +9,9 @@
 | 5 | [DiffusionCLIP: Text-Guided Diffusion Models for Robust Image Manipulation](https://arxiv.org/abs/2110.02711) |  [1](https://github.com/gwang-kim/DiffusionCLIP) |
 | 6 | [SINE: SINgle Image Editing with Text-to-Image Diffusion Models](https://arxiv.org/abs/2212.04489)| [1](https://github.com/zhang-zx/SINE)
 | 7 | [Diffusion Art or Digital Forgery? Investigating Data Replication in Diffusion Models](https://arxiv.org/abs/2212.03860) | 
+| 8 | [Direct Inversion: Optimization-Free Text-Driven Real Image Editing with Diffusion Models](https://arxiv.org/abs/2211.07825) | 
+| 9 | [DiffEdit: Diffusion-based semantic image editing with mask guidance](https://arxiv.org/abs/2210.11427)
+| 10 | [Prompt-to-Prompt Image Editing with Cross Attention Control](https://arxiv.org/abs/2208.01626) | [1](https://github.com/bloc97/CrossAttentionControl)
 
 # Reading Paper : Applied Diffusion Model
 
