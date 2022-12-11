@@ -12,6 +12,7 @@
 | 8 | [Direct Inversion: Optimization-Free Text-Driven Real Image Editing with Diffusion Models](https://arxiv.org/abs/2211.07825) | 
 | 9 | [DiffEdit: Diffusion-based semantic image editing with mask guidance](https://arxiv.org/abs/2210.11427)
 | 10 | [Prompt-to-Prompt Image Editing with Cross Attention Control](https://arxiv.org/abs/2208.01626) | [1](https://github.com/bloc97/CrossAttentionControl)
+| 11| [LDEdit: Towards Generalized Text Guided Image Manipulation via Latent Diffusion Models](https://arxiv.org/abs/2210.02249) | 
 
 # Reading Paper : Applied Diffusion Model
 
