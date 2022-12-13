@@ -14,6 +14,7 @@
 | 10 | [Prompt-to-Prompt Image Editing with Cross Attention Control](https://arxiv.org/abs/2208.01626) | [1](https://github.com/bloc97/CrossAttentionControl)
 | 11| [LDEdit: Towards Generalized Text Guided Image Manipulation via Latent Diffusion Models](https://arxiv.org/abs/2210.02249) | 
 | 12 | [Imagen : Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding](https://arxiv.org/abs/2205.11487) | 
+| 13 | [Classifier-Free Diffusion Guidance](https://openreview.net/forum?id=qw8AKxfYbI) |
 
 # Reading Paper : Applied Diffusion Model
 
