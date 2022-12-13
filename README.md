@@ -24,12 +24,12 @@
 | 2 | [DiffusionDet: Diffusion Model for Object Detection](https://arxiv.org/abs/2211.09788) | [1](https://github.com/ShoufaChen/DiffusionDet)
 
 # Awesome References
-| NO | Title | 
-| --- | --- |
-| 1 | [Awesome-Diffusion-Models](https://github.com/heejkoo/Awesome-Diffusion-Models#introductory-posts) |
-| 2 | [differs](https://github.com/huggingface/diffusers) |
-| 3 | [The theory behind Latent Variable Models: formulating a Variational Autoencoder](https://theaisummer.com/latent-variable-models/?utm_content=223165712) 
-| 4 | [How diffusion models work: the math from scratch](https://theaisummer.com/diffusion-models/)
+| NO | Title | 비고 | 
+| --- | --- | --- |
+| 1 | [Awesome-Diffusion-Models](https://github.com/heejkoo/Awesome-Diffusion-Models#introductory-posts) | papers |
+| 2 | [differs](https://github.com/huggingface/diffusers) | code | 
+| 3 | [The theory behind Latent Variable Models: formulating a Variational Autoencoder](https://theaisummer.com/latent-variable-models/?utm_content=223165712) | post |
+| 4 | [How diffusion models work: the math from scratch](https://theaisummer.com/diffusion-models/)| post |
 
 # References for Training
 | NO | Title | 
