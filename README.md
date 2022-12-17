@@ -32,6 +32,7 @@
 | 4 | [How diffusion models work: the math from scratch](https://theaisummer.com/diffusion-models/)| post |
 | 5 | [Guidance: a cheat code for diffusion models](https://benanne.github.io/2022/05/26/guidance.html) | post |
 | 6 | [Stable Diffusion with 🧨 Diffusers](https://huggingface.co/blog/stable_diffusion) | post, code |
+| 7 | [Beginner’s Guide to Diffusion Models](https://towardsdatascience.com/beginners-guide-to-diffusion-models-8c3435ccb4ae)| post |
 
 # References for Training
 | NO | Title | 
