@@ -30,6 +30,7 @@
 | 2 | [differs](https://github.com/huggingface/diffusers) | code | 
 | 3 | [The theory behind Latent Variable Models: formulating a Variational Autoencoder](https://theaisummer.com/latent-variable-models/?utm_content=223165712) | post |
 | 4 | [How diffusion models work: the math from scratch](https://theaisummer.com/diffusion-models/)| post |
+| 5 | [Guidance: a cheat code for diffusion models](https://benanne.github.io/2022/05/26/guidance.html) | post |
 
 # References for Training
 | NO | Title | 
