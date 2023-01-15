@@ -33,7 +33,7 @@
 | 5 | [Guidance: a cheat code for diffusion models](https://benanne.github.io/2022/05/26/guidance.html) | post |
 | 6 | [Stable Diffusion with 🧨 Diffusers](https://huggingface.co/blog/stable_diffusion) | post, code |
 | 7 | [Beginner’s Guide to Diffusion Models](https://towardsdatascience.com/beginners-guide-to-diffusion-models-8c3435ccb4ae)| post |
-
+| 8 | [What are Diffusion Models?](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/)| post |
 # References for Training
 | NO | Title | 
 | --- | --- |
