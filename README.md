@@ -35,6 +35,7 @@
 | 7 | [Beginner’s Guide to Diffusion Models](https://towardsdatascience.com/beginners-guide-to-diffusion-models-8c3435ccb4ae)| post |
 | 8 | [What are Diffusion Models?](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/)| post |
 | 9 | [The Illustrated Stable Diffusion](https://jalammar.github.io/illustrated-stable-diffusion) | post |
+| 10 | [Stable Diffusion Clearly Explained!](https://medium.com/@steinsfu/stable-diffusion-clearly-explained-ed008044e07e) | post |
 
 # References for Training
 | NO | Title | 
